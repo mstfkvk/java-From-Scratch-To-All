@@ -29,7 +29,7 @@ a char variable named grade is given. write a program to print the following mes
             'C': good
             'D': passed
             'F': failed
-            other wise: "invalid"
+            otherwise: "invalid"
 
             NOTE: MUST USE NESTED IF. DO NOT USE MORE THAN ONE PRINT STATEMENT
 
